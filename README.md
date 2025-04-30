@@ -20,7 +20,7 @@
 - “**Quick Edit**” shortcut: drop in text → get a synced voice‑over & background video in seconds
 
 <p align="center">
-  <img src="assets/images/automatic_processing.png width="480" alt="CreatorForge AI demo"/>
+  <img src="assets/images/automatic_processing.png" width="480" alt="CreatorForge AI demo"/>
 </p>
 
 ---
