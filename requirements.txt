@@ -1,0 +1,8 @@
+openai
+moviepy
+requests
+pyyaml
+python-dotenv
+streamlit
+edge-tts
+ffmpeg-python
